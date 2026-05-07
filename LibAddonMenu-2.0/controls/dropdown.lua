@@ -24,7 +24,7 @@
 } ]]
 
 
-local widgetVersion = 28
+local widgetVersion = 29
 local LAM = LibAddonMenu2
 if not LAM:RegisterWidget("dropdown", widgetVersion) then return end
 
